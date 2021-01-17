@@ -47,7 +47,7 @@ React/TypeScriptのアプリケーションを`create-react-app`で作成し、�
 まず、`create-react-app`でReact/TypeScriptのアプリケーションを作成します。ここでは「my-react-app」という名前で作成しています。
 
 ```shell
-npx create-ract-app my-react-app --template typescript
+npx create-react-app my-react-app --template typescript
 ```
 
 次に、作成したアプリケーションのディレクトリに入り、Storybookの初期設定スクリプトを実行します。ここでは、ストーリーのフォーマットとして、Component Story Formatを指定しています。
